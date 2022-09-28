@@ -1,11 +1,11 @@
 ### Olá! Me chamo Gabriel Caian Cabral 👍
 
-- 🔭 Desenvolvedor full stack
-- 🌱 Estudando React, C++ e Node.js
-- 👯 Atuando em projetos externos
-- 📫 E-mail profissional: gabrielcaiangc@gmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Estudando modelagem 3D e produção musical 🎹
+- 🔭 Desenvolvedor full stack.
+- 🌱 Estudando React, C++, Node.js e statiscal learning.
+- 👯 Atuando em projetos externos.
+- 📫 E-mail profissional: gabrielcaiangc@gmail.com.
+- 😄 Pronouns: ele/dele.
+- ⚡ Fun fact: Estudando modelagem 3D e produção musical 🎹.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gcaiancabral/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-caian-8368b9211/)
